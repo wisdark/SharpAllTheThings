@@ -80,6 +80,12 @@ Credit the name to the amazing PayloadAllTheThings github repo (https://github.c
 8. RdpTheif - Extracting Clear Text Passwords from mstsc.exe using API Hooking.
     * Credit - https://twitter.com/0x09AL
     * Link - https://github.com/0x09AL/RdpThief
+9. SharpSecDump - port of the remote SAM + LSA Secrets dumping functionality of impacket's secretsdump.py.
+    * Credit - https://twitter.com/G0ldenGunSec
+    * Link - hhttps://github.com/G0ldenGunSec/SharpSecDump
+10. SharpWifiGrabber - Sharp Wifi Password Grabber retrieves in clear-text the Wi-Fi Passwords from all WLAN Profiles saved on a workstation using native win32 API.
+    * Credit - https://twitter.com/r3n_hat
+    * Link - https://github.com/r3nhat/SharpWifiGrabber
 
 ### Discovery
 1. SharpHound -  Uses graph theory to reveal the hidden and often unintended relationships within an Active Directory environment, executes collection options necessary to populate the backend BloodHound database. 
@@ -136,6 +142,9 @@ Credit the name to the amazing PayloadAllTheThings github repo (https://github.c
 18. Grouper2 - A tool for pentesters to help find security-related misconfigurations in Active Directory Group Policy.
     * Credit - l0ss (@mikeloss) https://twitter.com/mikeloss
     * Link - https://github.com/l0ss/Grouper2/blob/master/README.md
+19. SharpMapExec - A sharpen version of CrackMapExec. 
+    * Credit - Cube0x0 https://twitter.com/cube0x0
+    * Link - https://github.com/cube0x0/SharpMapExec
    
 
 ### Lateral Movement
